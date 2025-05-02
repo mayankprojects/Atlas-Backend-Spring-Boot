@@ -1,4 +1,4 @@
-package org.codingwallah.emproject.services;
+package org.codingwallah.emproject.service;
 
 import java.util.List;
 
